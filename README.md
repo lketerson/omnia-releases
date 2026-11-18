@@ -6,8 +6,8 @@ Omnia is a desktop app with an infinite canvas. Each AI agent runs in its own te
 next to the browser, notes, diagrams and boards it works with. You see every agent at once and decide
 what each one can reach. The AI subscription you already have is enough.
 
-Website: **https://omnia.lketerson.com** · Manual: [English](https://omnia.lketerson.com/manual/) ·
-[Español](https://omnia.lketerson.com/es/manual/) · [Português](https://omnia.lketerson.com/pt-br/manual/)
+Website: **https://www.omniastation.com.br** · Manual: [English](https://www.omniastation.com.br/manual/) ·
+[Español](https://www.omniastation.com.br/es/manual/) · [Português](https://www.omniastation.com.br/pt-br/manual/)
 
 > This repository holds only the installers and the release notes. The source code is not public.
 
@@ -125,7 +125,7 @@ Gemini CLI).
 4. Draw links from the agent to the nodes it should use.
 5. Ask for the work. Watch it happen on the canvas.
 
-The [manual](https://omnia.lketerson.com/manual/) covers each part in detail: the station, decks,
+The [manual](https://www.omniastation.com.br/manual/) covers each part in detail: the station, decks,
 terminals and crew, links and the CLI, portal and Android, records, flowchart, kanban, files,
 viewscreen, panels, vault, phone access, sandbox, settings, data and updates, and keyboard shortcuts.
 
